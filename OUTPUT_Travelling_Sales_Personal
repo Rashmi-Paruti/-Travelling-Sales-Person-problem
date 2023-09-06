@@ -1,0 +1,63 @@
+
+ Enter No.of Cities:
+4
+
+Enter Cost Matrix:
+Row#:1
+0
+10
+15
+20
+Row#:2
+5
+0
+9
+10
+Row#:3
+6
+13
+0
+12
+Row#:4
+8
+8
+9
+0
+
+
+The Cost Matrix is:....
+
+
+0
+10
+15
+20
+
+
+5
+0
+9
+10
+
+
+6
+13
+0
+12
+
+
+8
+8
+9
+0
+
+
+The Path is:
+1-->
+2-->
+4-->
+3-->
+1
+
+
+The Cost of Tour:35
